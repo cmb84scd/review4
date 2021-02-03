@@ -9,17 +9,25 @@
           1,
           1,
           null,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
       "/home/cmb84scd/projects/review4/lib/string_calculator.rb": {
         "lines": [
           1,
+          2,
           1,
+          null,
+          1,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1612354954
+    "timestamp": 1612355424
   }
 }
